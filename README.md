@@ -17,8 +17,8 @@ A real-time multiplayer trivia game where players connect to a server and compet
 
 ## Project Structure
 
-- `Server.py`: The game server that manages connections and game logic
-- `Client.py`: The client application that players use to connect to the server
+- Server.py: The game server that manages connections and game logic
+- Client.py: The client application that players use to connect to the server
 
 ## How to Run
 
